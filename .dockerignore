@@ -1,0 +1,7 @@
+*.swo
+*.swp
+.git
+.DS_Store
+examples
+*.jtl
+*.log
